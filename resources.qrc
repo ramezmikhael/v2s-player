@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>pics/logo01.png</file>
+        <file>pics/splash.png</file>
+        <file>pics/edit.png</file>
+        <file>pics/remove.png</file>
+    </qresource>
+</RCC>
